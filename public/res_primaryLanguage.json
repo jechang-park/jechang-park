@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "LinkUp",
+        "title": "LinkUp(반응형웹)",
         "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
@@ -19,7 +19,7 @@
           "images/linkup.png"
 
         ],
-        "url": "",
+        "url": "https://linkup-rho.vercel.app/",
         "technologies": [
           {
             "class": "devicon-nextjs-plain",
@@ -36,14 +36,13 @@
         ]
       },
       {
-        "title": "Zipjob",
-        "startDate": "2018",
+        "title": "Zipjob(반응형웹)",
+        "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/www.zipjob.co.kr_.png"
         ],
-        "url": "https://github.com",
+        "url": "https://zipjob.co.kr",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,9 +54,10 @@
           }
         ]
       },
+      
       {
-        "title": "TossPayment",
-        "startDate": "20230",
+        "title": "TossPayment(토스결제연동)",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/toss.png"
@@ -74,41 +74,66 @@
           }
       
         ]
+      },
+      {
+        "title": "Hollys",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/3.png"
+        ],
+        "url": "https://jechang-park.github.io/portfolio_/HOLLYS/index.html",
+        "technologies": [
+          {
+            "class": "devicon-html-plain",
+            "name": "Html5"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "Css3"
+          }
+          ,
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
       }
     ],
     "experience": [
+
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "국비학원(프로젝트 중심의 Java 프로젝트)",
+        "title": "훈련생",
+        "years": "2022.11 - 2023.05",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java"
+        ],
+        "technologies": [
+          "Springboot",
+          "Java",
+          "JavaScript",
+          "Html5",
+          "Css3",
+          "gradle"
+        ]
+      }
+      ,      {
+        "company": "주식회사 이상(집잡 - 스마트 인력사무소 매칭앱)",
+        "title": "Front-End Developer",
+        "years": "2023.07 - present",
+        "mainTech": [
+          "React"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "ReactJS",
+          "NextJs",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MongoDB",
+          "React-native",
+          "AWS",
+          "Firebase"
         ]
       }
     ]
