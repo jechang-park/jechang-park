@@ -15,6 +15,11 @@
     "skills": {
       "icons": [
         {
+          "name": "Chatgpt-4",
+          "class": "devicon-chatgpt-plain",
+          "level": "100"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
