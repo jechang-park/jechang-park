@@ -67,7 +67,8 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">안녕하세요 좋아서하는 프론트엔드 개발자 박제창입니다. <br/>
+                    국비학원의 교육 끝으로 스타트업에서 웹 프론트엔드 개발자로 근무하였습니다!  </span>
                     <br />
                     <br />
                     {about}

@@ -1,23 +1,23 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋",
+      "description_header": "",
+      "description": "",
       "section_name": {
-        "about": "About me",
+        "about": "자기 소개",
         "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "skills": "스킬",
+        "experience": "경력"
       }
     },
     "projects": [
       {
-        "title": "LinkUp(반응형웹)",
+        "title": "LinkUp(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "https://linkup-rho.vercel.app/ react nextjs 를 활용한 명함디자인 사이트 제작",
         "images": [
           "images/linkup.png",
-          "images/linkup.png"
-
+          "images/4.png",
+          "images/5.png"
         ],
         "url": "https://linkup-rho.vercel.app/",
         "technologies": [
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "title": "Zipjob(반응형웹)",
+        "title": "Zipjob(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
@@ -56,9 +56,9 @@
       },
       
       {
-        "title": "TossPayment(토스결제연동)",
+        "title": "TossPayment(토스결제연동) - 1인 프로젝트",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "",
         "images": [
           "images/toss.png"
         ],
@@ -76,9 +76,9 @@
         ]
       },
       {
-        "title": "Hollys",
+        "title": "Hollys - 1인 프로젝트",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "",
         "images": [
           "images/3.png"
         ],
@@ -119,9 +119,9 @@
         ]
       }
       ,      {
-        "company": "주식회사 이상(집잡 - 스마트 인력사무소 매칭앱)",
+        "company": "집잡 - 스마트 인력사무소 매칭앱",
         "title": "Front-End Developer",
-        "years": "2023.07 - present",
+        "years": "2023.07 - 2023.11",
         "mainTech": [
           "React"
         ],

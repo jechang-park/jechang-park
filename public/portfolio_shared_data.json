@@ -5,19 +5,20 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/jechang-park",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
+  
       ],
       "image": "KakaoTalk_Image_2023-10-24-16-54-50.jpeg"
     },
     "skills": {
       "icons": [
+        {
+          "name": "Chatgpt-4",
+          "class": "devicon-chatgpt-plain",
+          "level": "100"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -52,6 +53,16 @@
           "name": "MongoDB",
           "class": "devicon-mongodb-plain",
           "level": "60"
+        },
+        {
+          "name": "SpringBoot",
+          "class": "devicon-spring-plain",
+          "level": "50"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "50"
         }
       ]
     }
