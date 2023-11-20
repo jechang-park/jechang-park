@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "LinkUp(반응형웹)",
+        "title": "LinkUp(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
         "description": "https://linkup-rho.vercel.app/ react nextjs 를 활용한 명함디자인 사이트 제작",
         "images": [
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "title": "Zipjob(반응형웹)",
+        "title": "Zipjob(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
@@ -56,7 +56,7 @@
       },
       
       {
-        "title": "TossPayment(토스결제연동)",
+        "title": "TossPayment(토스결제연동) - 1인 프로젝트",
         "startDate": "2023",
         "description": "",
         "images": [
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "title": "Hollys",
+        "title": "Hollys - 1인 프로젝트",
         "startDate": "2023",
         "description": "",
         "images": [
