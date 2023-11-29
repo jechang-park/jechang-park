@@ -38,7 +38,7 @@
       {
         "title": "Zipjob(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
-        "description": "React , Nextjs 를 활용한 웹사이트 제작",
+        "description": "https://zipjob.co.kr  React , Nextjs 를 활용한 웹사이트 제작",
         "images": [
           "images/www.zipjob.co.kr_.png"
         ],
@@ -58,7 +58,7 @@
       {
         "title": "TossPayment(토스결제연동) - 1인 프로젝트",
         "startDate": "2023",
-        "description": "",
+        "description": "https://react-market-dfpr.vercel.app/",
         "images": [
           "images/6.png"
         ],
@@ -78,7 +78,7 @@
       {
         "title": "Hollys - 1인 프로젝트",
         "startDate": "2023",
-        "description": "",
+        "description": "https://jechang-park.github.io/portfolio_/HOLLYS/index.html",
         "images": [
           "images/3.png"
         ],
