@@ -38,7 +38,7 @@
       {
         "title": "Zipjob(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "React , Nextjs 를 활용한 웹사이트 제작",
         "images": [
           "images/www.zipjob.co.kr_.png"
         ],
@@ -60,7 +60,7 @@
         "startDate": "2023",
         "description": "",
         "images": [
-          "images/toss.png"
+          "images/6.png"
         ],
         "url": "https://react-market-dfpr.vercel.app/",
         "technologies": [
