@@ -146,7 +146,6 @@ header h1 {
 	background: #ffffff;
 	display: inline-block;
 	margin: 0 auto 5% auto;
-	padding: 10px 10px 5px;
 	text-align: center;
 	text-decoration: none;
 	-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
@@ -284,7 +283,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	width: 70vw;
+	width: 100vw;
 	position: fixed;
 	/* absolute도 가능하지만 fixed를 추천합니다. */
 	margin: 0;
@@ -292,7 +291,6 @@ header h1 {
 	border: none;
 	/* 보더 제거 */
 	border-radius: 0;
-	height: calc(100vh - 16px);
 	/* 브라우저 주소 표시줄 높이만큼 빼줍니다. 값은 상황에 따라 조정할 필요가 있습니다. */
 }
 
