@@ -41,8 +41,10 @@ class Projects extends Component {
                   </p>
                 </div>
               </div>
+              
             </span>
           </div>
+          
         );
       });
     }
@@ -63,6 +65,8 @@ class Projects extends Component {
           />
         </div>
       </section>
+      
+      
     );
   }
 }

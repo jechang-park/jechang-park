@@ -11,6 +11,26 @@
     },
     "projects": [
       {
+        "title": "영양제 분석 사이트 프로젝트(국비)",
+        "startDate": "2022",
+        "description": "https://www.youtube.com/watch?v=ODCulRMVGQ 영양제 맞춤 분석 사이트 YAGIYO",
+        "images": [
+          "images/yagiyo.png"
+        ],
+        "url": "https://www.youtube.com/watch?v=ODCulRMVGQ",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+      ,
+      {
         "title": "LinkUp(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
         "description": "https://linkup-rho.vercel.app/ react nextjs 를 활용한 명함디자인 사이트 제작",
@@ -38,7 +58,7 @@
       {
         "title": "Zipjob(반응형웹) - 1인 프로젝트",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "",
         "images": [
           "images/www.zipjob.co.kr_.png"
         ],
